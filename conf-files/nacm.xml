@@ -1,0 +1,4 @@
+<!-- ietf-netconf-acm.xml -->
+<nacm xmlns="urn:ietf:params:xml:ns:yang:ietf-netconf-acm">
+    <enable-nacm>false</enable-nacm>
+</nacm>
